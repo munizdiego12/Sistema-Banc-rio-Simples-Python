@@ -1,2 +1,10 @@
-# Sistema-Banc-rio-Simples-Python
-Um sistema bancário simples desenvolvido em Python, com funcionalidades de criação de conta, depósito, saque e exibição de saldo.
+# Sistema Bancário Simples em Python
+
+Um sistema bancário simples desenvolvido em **Python**, com funcionalidades de:
+
+- Depositar
+- Sacar
+- Ver saldo
+
+## 🚀 Tecnologias utilizadas
+- Python 3.x
